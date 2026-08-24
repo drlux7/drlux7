@@ -1,4 +1,4 @@
-# 👋 Omar Adel — Flutter Developer | Software Engineer | Full-Stack Developer
+# 👋 Omar Elhawary — Flutter Developer | Software Engineer | Full-Stack Developer
 
 > **Flutter Developer first — building polished mobile apps, then connecting them to powerful backends and real-world systems.**
 
