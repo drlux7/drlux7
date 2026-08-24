@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Omar Adel
+# 👋 Hi, I'm Omar Elhawary
 
 ### 📱 Flutter Developer • Software Engineer • Full-Stack Developer
 
@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 
-I'm **Omar Adel**, an IT graduate and **Flutter Developer** focused on building modern, responsive and practical mobile applications.
+I'm **Omar Elhawary**, an IT graduate and **Flutter Developer** focused on building modern, responsive and practical mobile applications.
 
 I also work across the full software stack, so I can understand what happens behind the app:
 
