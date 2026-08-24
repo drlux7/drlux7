@@ -1,156 +1,202 @@
-# 👋 Omar Elhawary — Flutter Developer | Software Engineer | Full-Stack Developer
+<div align="center">
 
-> **Flutter Developer first — building polished mobile apps, then connecting them to powerful backends and real-world systems.**
+# 👋 Hi, I'm Omar Adel
 
-I'm **Omar Adel**, an IT graduate and entry-level software engineer from Egypt with hands-on experience as a freelance full-stack developer and a strong interest in IT operations, software engineering, Flutter, web development, and IoT.
+### 📱 Flutter Developer • Software Engineer • Full-Stack Developer
 
-I like working across the stack — from a clean UI and REST API to databases, deployment, troubleshooting, and even Raspberry Pi hardware.
+<a href="https://flutter.dev/"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"></a>
+<a href="https://dart.dev/"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://laravel.com/"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
 
----
+<br>
 
-## 🧭 What I Do
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=42A5F5&center=true&vCenter=true&width=700&lines=Flutter+Developer+%F0%9F%93%B1;Building+Cross-Platform+Mobile+Apps+%F0%9F%9A%80;Full-Stack+Developer+%F0%9F%92%BB;IoT+%26+Edge+AI+Builder+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Typing SVG">
 
-| Area | What I work with |
-|---|---|
-| 💻 Full-Stack Web | React, TypeScript, PHP, Laravel, MySQL |
-| 📱 Mobile | **Flutter / Dart** |
-| 🛠️ IT & Support | Windows, networking, troubleshooting, hardware/software support |
-| 🤖 IoT & Edge AI | Raspberry Pi, Python, Flask, Edge Impulse |
-| 🎨 Frontend | React, Vite, Tailwind CSS, Figma |
-| 🗄️ Backend | PHP, Laravel, REST APIs, JWT, MySQL |
-| ⚙️ Tools | Git, GitHub, VS Code, XAMPP |
+<br>
 
----
+<img src="https://komarev.com/ghpvc/?username=OmarElhawary&style=for-the-badge&color=0e75b6" alt="Profile views">
 
-## 🚀 Featured Projects
-
-### 🧾 SmartBilling — Raspberry Pi + Edge AI
-A smart billing prototype combining a **Raspberry Pi 3 B+**, Python/Flask, Edge Impulse, QR payment flow, automatic refresh, and a dummy-scale mode for development.
-
-**Stack:** Python · Flask · Raspberry Pi · Edge Impulse · Linux
-
-> Built as a graduation-project style system connecting hardware, AI inference, backend services, and a web interface.
+</div>
 
 ---
 
-### 🤝 Partners Recruitment Hub
-A recruitment-focused web platform with a React SPA frontend, authentication flow, and Laravel/PHP backend architecture.
+## 🚀 About Me
 
-**Stack:** React · Vite · Tailwind CSS · PHP · Laravel · MySQL · JWT
+I'm **Omar Adel**, an IT graduate and **Flutter Developer** focused on building modern, responsive and practical mobile applications.
 
----
-
-### 🏛️ Russian Cultural Center Sales Management
-A web system designed to help manage sales operations for a cultural center.
-
-**Stack:** Web Development · PHP · MySQL · Admin Dashboard
-
----
-
-### 🎯 Job Interview Platform
-A full website concept focused on managing job-interview workflows and candidate interactions.
-
-**Stack:** Full-Stack Web · Database · Authentication · Responsive UI
-
----
-
-### 📱 Flutter Applications — Primary Focus
-Mobile applications built with Flutter/Dart, with practical experience troubleshooting Android builds and preparing applications for mobile deployment.
-
-**Stack:** Flutter · Dart · Android · REST APIs
-
----
-
-## 🧠 Engineering Mindset
+I also work across the full software stack, so I can understand what happens behind the app:
 
 ```text
-Idea
-  ↓
-Design
-  ↓
-Frontend
-  ↓
-API / Backend
-  ↓
-Database
-  ↓
-Testing
-  ↓
-Deployment
-  ↓
-Monitoring & Troubleshooting
+📱 Flutter / Dart
+        ↓
+🎨 UI / UX
+        ↓
+🔌 REST APIs
+        ↓
+⚙️ Laravel / PHP / Python
+        ↓
+🗄️ MySQL
+        ↓
+🐧 Linux / Deployment
 ```
 
-I enjoy understanding the **whole system**, not just one layer.
+I enjoy taking an idea from **concept → UI → API → database → deployment**.
 
 ---
 
-## 🛠️ Tech Stack
+## 📱 My Main Focus
 
-### Languages
-`Dart` `TypeScript` `JavaScript` `PHP` `Python` `SQL`
+<div align="center">
 
-### Frameworks & Platforms
-`Flutter` `React` `Laravel` `Vite` `Flask`
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,git,github">
 
-### Databases
-`MySQL`
+### Flutter Development
 
-### Infrastructure / IT
-`Windows` `Linux` `Networking` `Troubleshooting` `Hardware`
+</div>
 
-### IoT / AI
-`Raspberry Pi` `Edge Impulse` `Arduino`
-
----
-
-## 📊 GitHub Philosophy
-
-I don't want my GitHub to be just a collection of code.
-
-I want it to show:
-
-- 🧩 how I solve problems
-- 🏗️ how I structure applications
-- 🔧 how I troubleshoot systems
-- 📚 how I learn new technologies
-- 🚀 how I turn ideas into working products
+- 📱 Cross-platform mobile applications
+- 🎨 Responsive and polished UI
+- 🔌 REST API integration
+- 🔐 Authentication & JWT
+- 🗄️ Database integration
+- 🧪 Debugging & troubleshooting
+- 🚀 Android deployment
 
 ---
 
-## 🌱 Currently Growing
+## 🧰 Tech Stack
 
-- Advanced Flutter development
-- Production-ready React applications
-- Laravel API architecture
-- IT support & infrastructure
-- Networking and system administration
-- Cloud/deployment fundamentals
-- Clean architecture and scalable software
+### 📱 Mobile & Frontend
 
----
+<img src="https://skillicons.dev/icons?i=flutter,dart,react,typescript,javascript,html,css,tailwind,vite">
 
-## 🎯 Career Direction
+### ⚙️ Backend
 
-I'm targeting **entry-level Software Engineering, Full-Stack Development, Flutter Development, and IT roles** where I can combine software development with practical problem solving.
+<img src="https://skillicons.dev/icons?i=php,laravel,python,flask,nodejs">
 
----
+### 🗄️ Database & Tools
 
-## 🤝 Let's Build Something
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman">
 
-If you're interested in software, IT, IoT, automation, or turning an idea into a working product, feel free to connect.
+### 🤖 IoT & Systems
 
-**Omar Adel**  
-Egypt 🇪🇬
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino,linux,windows">
 
 ---
 
-### ⚡ Fun fact
+# 🔥 Featured Projects
 
-I can go from:
+| 📱 Project | 🔧 What I Built |
+|---|---|
+| **Flutter Applications** | Cross-platform apps, responsive UI, APIs, authentication and debugging |
+| **🧾 SmartBilling** | Raspberry Pi 3 B+ + Edge Impulse + Python/Flask + QR payment + Dummy Scale |
+| **🤝 Partners Recruitment Hub** | React + TypeScript + Vite + Tailwind + Laravel/PHP + MySQL |
+| **🏛️ Sales Management System** | Business workflows, database management and admin functionality |
 
-`React UI → Laravel API → MySQL → Raspberry Pi → Linux terminal`
+---
 
-without changing the mission:
+# 🧠 Engineering Mindset
 
-> **Make it work. Understand why. Make it better.**
+<div align="center">
+
+```text
+💡 IDEA
+  ↓
+🎨 DESIGN
+  ↓
+📱 FLUTTER APP
+  ↓
+🔌 REST API
+  ↓
+⚙️ BACKEND
+  ↓
+🗄️ DATABASE
+  ↓
+🧪 TEST
+  ↓
+🚀 DEPLOY
+  ↓
+🔧 IMPROVE
+```
+
+### Build → Break → Debug → Understand → Improve
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarElhawary&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElhawary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=OmarElhawary&theme=tokyonight&hide_border=true">
+
+</div>
+
+---
+
+# 🐍 My Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/OmarElhawary/OmarElhawary/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=OmarElhawary&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1">
+
+</div>
+
+---
+
+# 🌱 Currently Growing
+
+`Flutter` · `Dart` · `React` · `Laravel` · `PHP` · `Python` · `MySQL` · `Linux` · `IoT`
+
+---
+
+# 🎯 Career Direction
+
+My **primary focus is Flutter Development**.
+
+I'm looking for opportunities where I can grow as a:
+
+**📱 Flutter Developer → Software Engineer**
+
+while using my broader experience in React, Laravel, PHP, Python, MySQL, Linux and IoT to build complete products.
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://github.com/OmarElhawary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+
+<br><br>
+
+### ⭐ Build. Learn. Debug. Repeat.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:42A5F5,100:7E57C2&height=100&section=footer">
+
+</div>
