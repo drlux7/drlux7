@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Omar Adel
+# 👋 Hi, I'm Omar Elhawary
 
 ### 📱 Flutter Developer • Software Engineer • Full-Stack Developer
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-I'm **Omar Adel**, an IT graduate and **Flutter Developer** focused on building modern, responsive and practical mobile applications.
+I'm **Omar Elhawary**, an IT graduate and **Flutter Developer** focused on building modern, responsive and practical mobile applications.
 
 **Primary focus:** Flutter + Dart 📱
 
@@ -65,9 +65,9 @@ I also work across React, Laravel/PHP, Python, MySQL, Linux and IoT, giving me a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=OmarElhawary&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=drlux7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarElhawary&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drlux7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
 
 </div>
 
@@ -76,7 +76,7 @@ I also work across React, Laravel/PHP, Python, MySQL, Linux and IoT, giving me a
 ## 🔥 Contribution Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=OmarElhawary&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com?user=drlux7&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
@@ -84,10 +84,8 @@ I also work across React, Laravel/PHP, Python, MySQL, Linux and IoT, giving me a
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/OmarElhawary/OmarElhawary/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
+<img src="https://raw.githubusercontent.com/drlux7/drlux7/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake">
 </div>
-
-> Run **Actions → Generate Contribution Snake → Run workflow** once after creating the repository.
 
 ---
 
@@ -114,7 +112,7 @@ My broader experience in React, Laravel, PHP, Python, MySQL, Linux and IoT helps
 
 <div align="center">
 
-<a href="https://github.com/OmarElhawary"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/drlux7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <br><br>
