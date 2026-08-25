@@ -65,9 +65,9 @@ I also work across React, Laravel/PHP, Python, MySQL, Linux and IoT, giving me a
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=drlux7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
+<img height="180" src="https://github-stats-extended.vercel.app/api?username=drlux7&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drlux7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+<img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=drlux7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
 
 </div>
 
